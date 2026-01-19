@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/cmliu/CF-Workers-CheckProxyIP?style=flat-square)](https://github.com/cmliu/CF-Workers-CheckProxyIP)
 
-## 📖 项目简介
+## 📖 项目简介 
 
 CF-Workers-CheckProxyIP 是一个部署在 Cloudflare Workers 上的轻量级 ProxyIP 验证工具。它能够快速、准确地检测代理IP的可用性，帮助用户筛选出有效的代理服务器。
 
